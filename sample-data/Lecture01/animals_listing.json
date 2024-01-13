@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Mark The Lion",
+    "description": "Make your home Mark's forever kingdom.",
+    "imageSrc": "assets/images/lecture01/animals/animals_02.png"
+  },
+  {
+    "name": "Spock the Crock",
+    "description": "Spock will drown you in joy.",
+    "imageSrc": "assets/images/lecture01/animals/animals_03.png"
+  },
+  {
+    "name": "Lisa the Hyena ",
+    "description": "Be prepared, for afternoon snuggles",
+    "imageSrc": "assets/images/lecture01/animals/animals_04.png"
+  },
+  {
+    "name": "Steve the Pig ",
+    "description": "A friend with fabulous hair.",
+    "imageSrc": "assets/images/lecture01/animals/animals_05.png"
+  },
+  {
+    "name": "Dave the Donkey ",
+    "description": "Will carry any burden.",
+    "imageSrc": "assets/images/lecture01/animals/animals_06.png"
+  }
+]
